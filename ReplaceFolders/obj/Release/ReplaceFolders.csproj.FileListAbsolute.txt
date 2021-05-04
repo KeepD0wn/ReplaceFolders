@@ -1,0 +1,11 @@
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\ReplaceFolders.exe.config
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\ReplaceFolders.exe
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\ReplaceFolders.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.Fody.CopyLocal.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.CopyComplete
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.exe
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.Properties.Resources.resources
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.GenerateResource.cache
