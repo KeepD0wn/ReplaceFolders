@@ -9,3 +9,4 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFol
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.pdb
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.Properties.Resources.resources
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.GenerateResource.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csprojAssemblyReference.cache
