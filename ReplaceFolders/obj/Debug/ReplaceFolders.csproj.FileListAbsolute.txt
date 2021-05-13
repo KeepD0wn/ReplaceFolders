@@ -5,7 +5,7 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolde
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.exe
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.pdb
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csproj.Fody.CopyLocal.cache
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csproj.CopyComplete
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.Properties.Resources.resources
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csproj.GenerateResource.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Diagnostics.DiagnosticSource.dll

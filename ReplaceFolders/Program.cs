@@ -15,12 +15,22 @@ namespace ReplaceFolders
             if (!destination.Exists)
             {
                 destination.Create();
-            }
+            }           
 
             // Copy all files.
             FileInfo[] files = source.GetFiles();
             foreach (FileInfo file in files)
             {
+                try //если он захочет поменять атрибут у файла которого нет, то и бог с ним
+                {
+                    DirectoryInfo d = new DirectoryInfo(Path.Combine(destination.FullName, file.Name));
+                    if (d.Attributes != FileAttributes.Normal)
+                    {
+                        File.SetAttributes(d.ToString(), FileAttributes.Normal);
+                    }
+                }
+                catch { }                
+
                 file.CopyTo(Path.Combine(destination.FullName,
                     file.Name), true);
             }
@@ -31,6 +41,11 @@ namespace ReplaceFolders
             {
                 // Get destination directory.
                 string destinationDir = Path.Combine(destination.FullName, dir.Name);
+                DirectoryInfo k = new DirectoryInfo(destinationDir);
+                if (!k.Exists)
+                {
+                    destination.Create();
+                }
 
                 // Call CopyDirectory() recursively.
                 CopyDirectory(dir, new DirectoryInfo(destinationDir));
@@ -39,9 +54,10 @@ namespace ReplaceFolders
 
         static void Main(string[] args)
         {
+            Console.Title = "Replace Folders";
             try
             {
-                if (File.Exists($@"{AppDomain.CurrentDomain.BaseDirectory}\License.lic"))
+                if (File.Exists($@"{AppDomain.CurrentDomain.BaseDirectory}\License.lic")) 
                 {
                     string key = "";
                     using (StreamReader sr = new StreamReader($@"{AppDomain.CurrentDomain.BaseDirectory}\License.lic"))
@@ -50,7 +66,7 @@ namespace ReplaceFolders
                     }
                     key = key.Replace("\r\n", "");
 
-                    if (PcInfo.GetCurrentPCInfo() == key)
+                    if (PcInfo.GetCurrentPCInfo() == key) 
                     {
                         string mainPath = @"C:\Program Files (x86)\Steam\userdata";
                         DirectoryInfo dir = new DirectoryInfo(mainPath);

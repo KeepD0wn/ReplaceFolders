@@ -1,0 +1,6 @@
+C:\Users\gvozd\source\repos\ReplaceFolders\CopyFolders\bin\Release\CopyFolders.exe.config
+C:\Users\gvozd\source\repos\ReplaceFolders\CopyFolders\bin\Release\CopyFolders.exe
+C:\Users\gvozd\source\repos\ReplaceFolders\CopyFolders\bin\Release\CopyFolders.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\CopyFolders\obj\Release\CopyFolders.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\CopyFolders\obj\Release\CopyFolders.exe
+C:\Users\gvozd\source\repos\ReplaceFolders\CopyFolders\obj\Release\CopyFolders.pdb
