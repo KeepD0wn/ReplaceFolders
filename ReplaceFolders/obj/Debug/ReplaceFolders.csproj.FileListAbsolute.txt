@@ -9,3 +9,4 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolde
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.Properties.Resources.resources
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csproj.GenerateResource.cache
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csprojAssemblyReference.cache
