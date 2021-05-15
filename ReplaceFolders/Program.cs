@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Threading;
+using MySql.Data.MySqlClient;
+using System.Configuration;
+using System.Data.Common;
 
 namespace ReplaceFolders
 {
@@ -65,6 +68,45 @@ namespace ReplaceFolders
                         key = sr.ReadToEnd();
                     }
                     key = key.Replace("\r\n", "");
+
+                    MySqlConnection conn = new MySqlConnection();
+                    try
+                    {
+                        ConnectionStringSettings settings = ConfigurationManager.ConnectionStrings["DefaultConnection"];
+                        conn = new MySqlConnection(settings.ToString());
+                        conn.Open();
+
+                        var com = new MySqlCommand("USE `MySQL-1964`; " +
+                         "select * from `subs` where keyLic = @keyLic AND subEnd > NOW() AND activeLic = 1 limit 1", conn);
+                        com.Parameters.AddWithValue("@keyLic", key);
+
+                        using (DbDataReader reader = com.ExecuteReader())
+                        {
+                            if (reader.HasRows) //тут уходит на else если нет данных
+                            {
+
+                            }
+                            else
+                            {
+                                conn.Close();
+                                Console.WriteLine("[SYSTEM] License is not active");
+                                Thread.Sleep(5000);
+                                Environment.Exit(0);
+                            }
+                        }
+                        conn.Close();
+                    }
+                    catch
+                    {
+                        conn.Close();
+                        Console.WriteLine("[SYSTEM][404] Something went wrong!");
+                        Thread.Sleep(5000);
+                        Environment.Exit(0);
+                    }
+                    finally
+                    {
+                        conn.Close();
+                    }
 
                     if (PcInfo.GetCurrentPCInfo() == key) 
                     {
