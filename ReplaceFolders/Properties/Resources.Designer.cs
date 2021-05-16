@@ -59,5 +59,14 @@ namespace ReplaceFolders.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Server=84.23.52.177;port=3306;User Id=user;password=LoRe2KNQg6MLwbAY.
+        /// </summary>
+        internal static string String1 {
+            get {
+                return ResourceManager.GetString("String1", resourceCulture);
+            }
+        }
     }
 }

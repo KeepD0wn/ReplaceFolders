@@ -31,4 +31,3 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Buf
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Memory.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Numerics.Vectors.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csprojAssemblyReference.cache
