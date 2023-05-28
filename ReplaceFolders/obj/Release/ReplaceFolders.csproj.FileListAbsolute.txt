@@ -1,11 +1,6 @@
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\ReplaceFolders.exe.config
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\ReplaceFolders.exe
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\ReplaceFolders.pdb
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Diagnostics.DiagnosticSource.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.CoreCompileInputs.cache
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.CopyComplete
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.exe
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.pdb
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.Properties.Resources.resources
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.GenerateResource.cache
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Diagnostics.DiagnosticSource.dll
@@ -31,3 +26,10 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Buf
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Memory.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Numerics.Vectors.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.AssemblyReference.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\ReplaceFolders.csproj.SuggestedBindingRedirects.cache
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Replace Folders.exe.config
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Replace Folders.exe
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Replace Folders.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\Replace Folders.exe
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\Replace Folders.pdb

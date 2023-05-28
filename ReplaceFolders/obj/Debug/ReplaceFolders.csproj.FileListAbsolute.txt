@@ -9,7 +9,6 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolde
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.Properties.Resources.resources
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csproj.GenerateResource.cache
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csprojAssemblyReference.cache
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\Google.Protobuf.dll
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\K4os.Compression.LZ4.dll
@@ -32,3 +31,4 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Buffe
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Memory.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Debug\ReplaceFolders.csproj.AssemblyReference.cache
