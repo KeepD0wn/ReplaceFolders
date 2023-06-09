@@ -33,3 +33,14 @@ C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Replace Fo
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Replace Folders.pdb
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\Replace Folders.exe
 C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\obj\Release\Replace Folders.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\GeneralDLL.dll
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\SteamAuth.dll
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Newtonsoft.Json.dll
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\GeneralDLL.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\SteamAuth.pdb
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\Newtonsoft.Json.xml
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.IO.Pipelines.dll
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\GeneralDLL.dll.config
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\gvozd\source\repos\ReplaceFolders\ReplaceFolders\bin\Release\System.IO.Pipelines.xml
